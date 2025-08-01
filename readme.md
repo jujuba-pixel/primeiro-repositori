@@ -1,5 +1,7 @@
 <h1> Meu primeiro progama </h1>
-> status do projeto: Em desenvolvimento
+
+![Static Badge](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-black)
+
 
 para rodar este projeto na sua máqina, por favor, digite;
 
